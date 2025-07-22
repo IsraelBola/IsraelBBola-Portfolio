@@ -146,7 +146,8 @@ const projectData = [
         "name": "Calculator",
         "languages": "C#",
         "description": "My first try at maing a calculator using C#. You can clone the repository and check it out for yourself",
-        "link": "https://github.com/israelb-ITVarsity/Csharp_CalculatorApp"
+        "linkCode": "https://github.com/israelb-ITVarsity/Csharp_CalculatorApp",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -155,7 +156,8 @@ const projectData = [
         "name": "Currency Converter",
         "languages": "Java",
         "description": "Traveling and need some cash? Convert your currency here with this self updating API, currency converter",
-        "link": "https://github.com/israelb-ITVarsity/JAVA_CurrencyConverter"
+        "linkCode": "https://github.com/israelb-ITVarsity/JAVA_CurrencyConverter",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -164,7 +166,8 @@ const projectData = [
         "name": "Charge Account Statement",
         "languages": "Java",
         "description": "Doing your own calculations and statements can be time consuming, let java do it for you!",
-        "link": "https://github.com/israelb-ITVarsity/charge-account-statement"
+        "linkCode": "https://github.com/israelb-ITVarsity/charge-account-statement",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -173,7 +176,8 @@ const projectData = [
         "name": "Activity for Lazy Days",
         "languages": "Java",
         "description": "Ever got so bored that you didn't know what to do? Well now you can let code help you get an activity to do by simply providing it with your temperature",
-        "link": "https://github.com/israelb-ITVarsity/activities-for-lazy-days"
+        "linkCode": "https://github.com/israelb-ITVarsity/activities-for-lazy-days",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -182,7 +186,8 @@ const projectData = [
         "name": "Password Manager",
         "languages": "Java",
         "description": "Remembering all these different user names and passwords can really mess with you. So I decided to create a password manager to help you.",
-        "link": "https://github.com/israelb-ITVarsity/password-manager"
+        "linkCode": "https://github.com/israelb-ITVarsity/password-manager",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -191,7 +196,8 @@ const projectData = [
         "name": "Computing A Raise",
         "languages": "Java",
         "description": "Are you an employer that doesn't want to waist time computing a raise based on performance? Well coding makes all that easy for you",
-        "link": "https://github.com/israelb-ITVarsity/computing-raise"
+        "linkCode": "https://github.com/israelb-ITVarsity/computing-raise",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -200,7 +206,8 @@ const projectData = [
         "name": "Elections",
         "languages": "Java",
         "description": "Elections are always a hassle, let's compute which candidate wins fairly with some Java.",
-        "link": "https://github.com/israelb-ITVarsity/elections"
+        "linkCode": "https://github.com/israelb-ITVarsity/elections",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -209,7 +216,8 @@ const projectData = [
         "name": "Rock, Paper, Scissors",
         "languages": "Java",
         "description": "Bored? Well you can never go wrong with a classic game of rock, paper, scissors",
-        "link": "https://github.com/israelb-ITVarsity/rock-paper-scissors"
+        "linkCode": "https://github.com/israelb-ITVarsity/rock-paper-scissors",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -218,7 +226,8 @@ const projectData = [
         "name": "To-do List",
         "languages": "Python",
         "description": "Store all your daily activities into this to-do list. And you can remove or add new once.",
-        "link": "https://github.com/israelb-ITVarsity/to-do-list"
+        "linkCode": "https://github.com/israelb-ITVarsity/to-do-list",
+        "linkLive": "under-construction.html"
     },
 
     {
@@ -227,7 +236,108 @@ const projectData = [
         "name": "Sort Numbers",
         "languages": "Python",
         "description": "Use selection or Bubble sorting method to sort a series of numbers you have",
-        "link": "https://github.com/israelb-ITVarsity/sorting"
+        "linkCode": "https://github.com/israelb-ITVarsity/sorting",
+        "linkLive": "under-construction.html"
+    },
+
+    {
+        "id":24,
+        "type": "full-stack",
+        "name": "To-Do List",
+        "languages": "Javascript (React Framework), HTML, CSS",
+        "description": "To-do List App; allows the user to input their activities/items; keep track of them and remove any already done activity",
+        "linkCode": "https://github.com/israelb-ITVarsity/To-do-list_App",
+        "linkLive": "https://www.loom.com/share/d07614a75da040409700898e264ff7af?sid=eba3dfc2-f337-4d7d-a029-77493ce4bfc0"
+    },
+
+    {
+        "id":25,
+        "type": "full-stack",
+        "name": "Keeper App",
+        "languages": "Javascript (React Framework), HTML, CSS, PostgresSQL",
+        "description": "Note taking app using React framework and node (made use of postgres for the database) - fullstack app",
+        "linkCode": "https://github.com/israelb-ITVarsity/Keeper-App",
+        "linkLive": "https://www.loom.com/share/2d9d848f7335412b95916749697dc8e9?sid=9a68b44f-040c-4517-984b-8194df6159f2"
+    },
+
+    {
+        "id":26,
+        "type": "full-stack",
+        "name": "Secret App",
+        "languages": "Javascript, EJS, CSS, PostgresSQL",
+        "description": "An app where you can post secrets and see other users secrets. Here I make use of encryption as well as OAuth to ensure user security upon logging in.",
+        "linkCode": "https://github.com/israelb-ITVarsity/Secrets-App",
+        "linkLive": "https://www.loom.com/share/a11fd67df6a543dda722b59042f3a1f0?sid=0a37d422-d003-440e-8564-6eb5e94c4ea9"
+    },
+
+    {
+        "id":27,
+        "type": "full-stack",
+        "name": "Blog App",
+        "languages": "Javascript, EJS, CSS",
+        "description": "Blogging app that allows you to add, edit and delete your blog posts",
+        "linkCode": "https://github.com/israelb-ITVarsity/Blog-App",
+        "linkLive": "https://www.loom.com/share/53320e721e0b421db3786b534b6d957c?sid=e15015d0-f666-45c3-8717-b69141478380"
+    },
+
+    {
+        "id":28,
+        "type": "full-stack",
+        "name": "Family Travel App",
+        "languages": "Javascript, EJS, CSS, PostgresSQL",
+        "description": "An app to keep track of the countries you travel to. You can create your own person profile and save the countries you've visited, each member of the family can join!",
+        "linkCode": "https://github.com/israelb-ITVarsity/Family-Travel-App",
+        "linkLive": "https://www.loom.com/share/1367497e05ec48828d4fdacf7a1c2cad?sid=0218059f-1150-4f62-b1df-1cccbe928797"
+    },
+
+    {
+        "id":29,
+        "type": "full-stack",
+        "name": "Permalist App",
+        "languages": "Javascript, EJS, CSS, PostgresSQL",
+        "description": "Permalist app that allows the user to add, update and remove items. Feel free to keep track of all your acivities or items youned to get!",
+        "linkCode": "https://github.com/israelb-ITVarsity/Permalist-App",
+        "linkLive": "https://www.loom.com/share/d63f09db09ba41bc9d0776dfdc95c66e?sid=dc5de0cb-1089-460e-a1c9-17e5cb9cd0ae"
+    },
+
+    {
+        "id":30,
+        "type": "full-stack",
+        "name": "World Capital Quiz App",
+        "languages": "Javascript, EJS, CSS, PostgresSQL",
+        "description": "Test your geography knowledge by seeing if you know the capital of the countries in the game",
+        "linkCode": "https://github.com/israelb-ITVarsity/World-Capital-Quiz-App",
+        "linkLive": "https://www.loom.com/share/c823cf0098b24bd8a50814819fff28cb?sid=e4d861dd-1444-4390-a03b-295c2c922bfe"
+    },
+
+    {
+        "id":31,
+        "type": "front-end",
+        "name": "Drumkit App",
+        "languages": "Javascript, HTML, CSS",
+        "description": "Getting bored and thinking of playing some drums? Well look no further here you go, your very own drumkit. Make a beat!",
+        "linkCode": "https://github.com/israelb-ITVarsity/Drumkit",
+        "linkLive": "https://israelb-itvarsity.github.io/Drumkit/"
+    },
+
+    {
+        "id":32,
+        "type": "front-end",
+        "name": "Dice Game",
+        "languages": "Javascript, HTML, CSS",
+        "description": "A game of chances, guess who'll win between player one and two. Roll that dice!",
+        "linkCode": "https://github.com/israelb-ITVarsity/Dice-Game",
+        "linkLive": "https://israelb-itvarsity.github.io/Dice-Game/"
+    },
+
+    {
+        "id":33,
+        "type": "front-end",
+        "name": "Simon Game",
+        "languages": "Javascript (JQuery), HTML, CSS",
+        "description": "Test your memory by playing and seeing how far you can reach. Try to remember the colour patterns, enjoy!",
+        "linkCode": "https://github.com/israelb-ITVarsity/Simon-Game",
+        "linkLive": "https://israelb-itvarsity.github.io/Simon-Game/"
     }
 ]
 
